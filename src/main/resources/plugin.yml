@@ -1,0 +1,4 @@
+name: Allopvp
+version: '${project.version}'
+main: allo.net.allopvp.Allopvp
+api-version: 1.19
